@@ -1,0 +1,4 @@
+Andrzej;Tip;323144112;rodzina;
+Waldemar;Lisiy;332113223;praca;
+Romba;Bomba;334422133;znajomi;
+Daniel;Cherniy;443211333;znajomi;
